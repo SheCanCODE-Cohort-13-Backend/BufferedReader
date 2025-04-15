@@ -10,11 +10,11 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/files/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/file2.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReadWriter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Writing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/file2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ReadWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ReadWriter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
+    "Application.ReadWriter.executor": "Run",
     "Application.Writing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -61,9 +62,22 @@
       <recent name="$PROJECT_DIR$/files" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Writing">
+  <component name="RunManager" selected="Application.ReadWriter">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="JavaIOPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ReadWriter" />
       <module name="JavaIOPractice" />
       <extension name="coverage">
         <pattern>
@@ -90,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadWriter" />
         <item itemvalue="Application.Writing" />
         <item itemvalue="Application.Main" />
       </list>
